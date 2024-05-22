@@ -6,6 +6,9 @@ Developed a sentiment analysis on tweets to using an MLP to determine if the twe
 Implimented Preprocessing techniques for cleaning and filtering the tweets. Created a custom PyTorch dataset for label processing 
 and one-hot encoding. Evaluated the model performance on test set.
 
+## Tools and frameworks
+(Python, Pandas, NumPy, csikit-learn, PyTorach)
+
 ## Run
 
 Downlaod the code and run it. The sentiment analysis training data file will be downloaded as well. 
