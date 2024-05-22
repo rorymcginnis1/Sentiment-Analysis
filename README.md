@@ -2,12 +2,12 @@
 
 ## Description
 
-Developed a sentiment analysis on tweets to using an MLP to determine if the tweets are positive, negative, irrelivent or neutral. 
-Implimented Preprocessing techniques for cleaning and filtering the tweets. Created a custom PyTorch dataset for label processing 
+Developed a sentiment analysis on tweets to using an MLP to determine if the tweets are positive, negative, irrelevant or neutral. 
+Implemented Preprocessing techniques for cleaning and filtering the tweets. Created a custom PyTorch dataset for label processing 
 and one-hot encoding. Evaluated the model performance on test set.
 
 ## Tools and frameworks
-(Python, Pandas, NumPy, csikit-learn, PyTorach)
+(Python, Pandas, NumPy, scikit-learn, PyTorch)
 
 ## Run
 
